@@ -33,11 +33,11 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
 <details>
 <summary>📸 Show screenshots</summary>
 
-![Screen 1](image1.png)
-![Screen 2](image2.png)
-![Screen 3](image3.png)
-![Screen 4](image4.png)
-![Screen 5](image5.png)
-![Screen 6](image6.png)
+![Screen 1](screenshots/image1.png)
+![Screen 2](screenshots/image2.png)
+![Screen 3](screenshots/image3.png)
+![Screen 4](screenshots/image4.png)
+![Screen 5](screenshots/image5.png)
+![Screen 6](screenshots/image6.png)
 
 </details>
