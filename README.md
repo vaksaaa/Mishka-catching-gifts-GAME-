@@ -25,3 +25,15 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
     📂 Save File: Inside the game folder, you’ll find an unprotected save file.
 
     🏆 Your Choice: You can manually edit it to give yourself as many points as you want—the game is testing your integrity!
+
+<details>
+<summary>📸 Show screenshots</summary>
+
+![Screen 1](image1.png)
+![Screen 2](image2.png)
+![Screen 3](image3.png)
+![Screen 4](image4.png)
+![Screen 5](image5.png)
+![Screen 6](image6.png)
+
+</details>
