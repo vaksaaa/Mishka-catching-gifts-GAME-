@@ -26,6 +26,8 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
 
     🏆 Your Choice: You can manually edit it to give yourself as many points as you want—the game is testing your integrity!
 
+    [![Download Game](https://img.shields.io/badge/DOWNLOAD-Latest_Release-green?style=for-the-badge&logo=github)](https://github.com/vaksaaa/Mishka-catching-gifts-GAME-/releases/tag/v0.1)
+
 <details>
 <summary>📸 Show screenshots</summary>
 
