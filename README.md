@@ -11,7 +11,7 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
 
     ⚙️ Engine: Made with ClickTeam Fusion 2.5.
 
-    🖋 Font Required: Before starting the game, you must install the DS Crystal.ttf font found in the game folder.
+    🖋 Font Required: Before starting the game, you must install the DS Crystal.ttf font found in the game folder or in repository.
 
 🎮 Controls
 
