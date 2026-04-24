@@ -9,7 +9,7 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
 
 🛠 Technical Info
 
-    ⚙️ Engine: Made with ClickTeam Fusion 2.5.
+    ⚙️ Engine: Made with ClickTeam Fusion 2.5. (rubbish)
 
     🖋 Font Required: Before starting the game, you must install the DS Crystal.ttf font found in the game folder or in repository.
 
