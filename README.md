@@ -5,7 +5,7 @@ What do you get when you steal a fat cat’s presents and give a cannon to his r
 
 [![Listen to OST](https://img.shields.io/badge/Download-Soundtrack-FF5733?style=for-the-badge&logo=bandcamp&logoColor=white)](https://github.com/vaksaaa/Mishka-catching-gifts-GAME-/releases/tag/OST)
 
-🐱 Fat Cat vs. Cannon Cat 🐱
+🐱 Fat Cat Mishka vs. Cannon Cat Liza🐱
 
 🛠 Technical Info
 
